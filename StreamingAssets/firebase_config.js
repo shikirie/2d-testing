@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration,
 var firebaseConfig = {
-	apiKey: "AIzaSyDJXEmg2GXT9rk2BVIj203LvrsQJICH2M0",
-	authDomain: "chattestmmo.firebaseapp.com",
-	databaseURL: "https://chattestmmo-default-rtdb.firebaseio.com/",
-	projectId: "chattestmmo",
-	storageBucket: "chattestmmo.appspot.com",
-	messagingSenderId: "478510891227",
-	appId: "1:478510891227:web:f5bafdc3b10be0c7e28cfe"
+	apiKey: "AIzaSyAnr7m38RN28A6mg-IMG6rYURL6OLMncp8",
+	authDomain: "dcity-paras.firebaseapp.com",
+	databaseURL: "https://dcity-paras-default-rtdb.asia-southeast1.firebasedatabase.app",
+	projectId: "dcity-paras",
+	storageBucket: "dcity-paras.appspot.com",
+	messagingSenderId: "24940027159",
+	appId: "1:24940027159:web:359a14cbca04b6ea7feb52"
 };
 // Initialize Firebase,
 firebase.initializeApp(firebaseConfig);
