@@ -1,0 +1,18 @@
+{
+  "max_player": 1000,
+  "whitelisted_player": [
+    "0x9D35AED7ff571CBdFaF8a4710BebF105b54A38f4",
+    "0x4ebCC62D487DB4c987163D38103e5309BECE57A7"
+  ],
+  "whitelisted_creator":[
+    "0x9D35AED7ff571CBdFaF8a4710BebF105b54A38f4",
+    "0x4ebCC62D487DB4c987163D38103e5309BECE57A7"
+  ],
+  "free_buy_land_player":[
+    "0x9D35AED7ff571CBdFaF8a4710BebF105b54A38f4"
+  ],
+  "max_anon": 2,
+  "server_port_tcp": 7777,
+  "server_port_web": 7778,
+  "max_building": 1
+}

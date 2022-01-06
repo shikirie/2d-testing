@@ -1,0 +1,5 @@
+{
+  "server_address": "demo.uniqueone.world",
+  "server_port_tcp": 7777,
+  "server_port_web": 7778
+}

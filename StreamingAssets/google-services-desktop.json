@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478510891227",
+    "firebase_url": "https://chattestmmo-default-rtdb.firebaseio.com",
+    "project_id": "chattestmmo",
+    "storage_bucket": "chattestmmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478510891227:android:bbd39d966e1645aee28cfe",
+        "android_client_info": {
+          "package_name": "com.arsanesia.chattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478510891227-iuqn7o5vllhrr5bumvdgasecridreh67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUklZt8FJhIQCpDVXuwDMJrssQIlLA-hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478510891227-iuqn7o5vllhrr5bumvdgasecridreh67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
